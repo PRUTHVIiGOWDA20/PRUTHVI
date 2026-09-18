@@ -1,3 +1,3 @@
 print("pruthvi")
-print("1st standard")
+print("8st standard")
 print("vvce")
